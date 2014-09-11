@@ -1,0 +1,32 @@
+=======================================================
+                      UART Rx Test                     
+-------------------------------------------------------
+AT$START
+AT$START
+[0] OK
+AT$START
+AT$START
+[1] OK
+AT$START
+AT$START
+[2] OK
+AT$START
+AT$START
+[3] OK
+AT$START
+AT$START
+[4] OK
+AT$START
+AT$START
+[5] OK
+AT$START
+AT$START
+[6] OK
+AT$START
+AT$START
+[7] OK
+AT$START
+AT$START
+[8] OK
+AT$START
+AT$START

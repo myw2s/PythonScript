@@ -1,0 +1,13 @@
+=======================================================
+                Packet Error Rate Test                 
+-------------------------------------------------------
+Channel: 26
+[ERROR: Device # --- 19 Color control]ERROR:E100
+[ERROR: Device # --- 3 Color control]ERROR:E100
+[ERROR: Device # --- 25 Level control]ERROR:E100
+[ERROR: Device # --- 2 Level control]ERROR:E100
+[ERROR: Device # --- 3 Color control]ERROR:E900
+[ERROR: Device # --- 21 Level control]ERROR:E900
+[ERROR: Device # --- 24 Color control]ERROR:E100
+Total trial: 5000
+errorCounts: 7
